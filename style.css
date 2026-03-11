@@ -14,8 +14,7 @@
 }
 
 body{
-    font-family: "Italiana", sans-serif;;
-
+    font-family: "Italiana", sans-serif;
 }
 html{
     scroll-behavior: smooth;
@@ -56,4 +55,21 @@ html{
     font-weight: bold;
 }
 
+.titulo{
+    background-image: url(./images/23987be1ee5f006392e830d7b7117b20.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-position: center; 
+    display: flex;
+}
 
+.titulo h1{
+    font-family: "Italiana", sans-serif;
+    font-weight: bold;
+    color: var(--branco);
+}
+.titulo p{
+    font-family: "Italiana", sans-serif;
+    
+}
